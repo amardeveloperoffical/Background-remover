@@ -5,5 +5,5 @@
 3. "Remove unwanted backgrounds and enhance your images. Fast, easy, and accurate background removal for any project."
 4. "Get professional-looking results with our advanced background remover. Perfect for e-commerce, photography, and graphic design."
 5. "Simplify your editing process with our powerful background remover. Remove, replace, or refine backgrounds with just a few clicks."
-
+#here are some images of this website 
 <img src="https://raw.githubusercontent.com/amardeveloperoffical/Background-remover/refs/heads/main/img1-readme.jpg" alt="GitHub Logo" width="200">
