@@ -9,3 +9,4 @@
 <h3>here are some images of this website </h3>
 <img src="https://raw.githubusercontent.com/amardeveloperoffical/Background-remover/refs/heads/main/img1-readme.jpg" alt="GitHub Logo" width="200">
 <h1>some important steps</h1>
+
