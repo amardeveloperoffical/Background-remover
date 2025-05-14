@@ -9,4 +9,7 @@
 <h3>here are some images of this website </h3>
 <img src="https://raw.githubusercontent.com/amardeveloperoffical/Background-remover/refs/heads/main/img1-readme.jpg" alt="GitHub Logo" width="200">
 <h1>some important steps</h1>
+<img src="https://raw.githubusercontent.com/amardeveloperoffical/Background-remover/refs/heads/main/api-readme.jpg">
+<p>add your api for background removing progress and use test api that already set on source file </p>
+<h3>TEST API KEY 🗝️ :- aS84XqJf8FQ45sNw2oWtAs5o</h3>
 
